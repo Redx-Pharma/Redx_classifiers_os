@@ -10,6 +10,7 @@ name = "redxclassifiers"
 version = "0.0.1"
 license = {file = "LICENSE"}
 authors = [
+    {name = "Redx Pharma Team"},
     {name = "J. L. McDonagh"},
 ]
 description = "A library focused on classical ML models for classification"
